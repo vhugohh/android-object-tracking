@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This wiki explains our soccer robot project that we completed for our senior design project at Miami University. The project utilized an android smart-phone interfaced with an Arduino micro controller. The phone is responsible for tracking the object and outputting a tone that changes with the required direction change of the robot. The micro controller is responsible for interpreting the correct direction to steer the robot based on the output from the phone. 
+
+
+= Details =
+
+The following items are necessary to complete a working prototype:
+  * Any Android smart-phone
+  * Arduino Uno microcontroller
+  * Arduino motor controller shield
+  * Two DC motors
+  * Ball caster
+  * 9v battery to power Arduino and 4 AA batteries to power the motors
+  * Wheels and robot body (wheel choice and body is up to you)
